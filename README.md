@@ -1,0 +1,2 @@
+# CoronaViwusBot
+CoronaVirus statistic bot
