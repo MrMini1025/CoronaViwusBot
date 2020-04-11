@@ -3,5 +3,5 @@ CoronaVirus statistic bot
 
 Python bot
 
-all txt with int of static in ukraine
+all txt with int of statistic in ukraine.
 World statistic from worldmeters.info
